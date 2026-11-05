@@ -1,0 +1,37 @@
+{
+  "baseline": {
+    "escape_time": 159.8294763054803,
+    "escape_radius": 12.055869129026325,
+    "escape_speed": 0.407301242919965,
+    "escape_theta": 51.08478805496503,
+    "escape_x": 8.230888487585085,
+    "escape_y": 8.808885012369572,
+    "eighth_time": 81.56967176145201
+  },
+  "velocity_aligned": {
+    "escape_time": 157.08597017052045,
+    "escape_radius": 12.425325294861782,
+    "escape_speed": 0.40120017533159835,
+    "escape_theta": 50.72553011916929,
+    "escape_x": 11.13348083874979,
+    "escape_y": 5.516730290337138,
+    "eighth_time": 81.74080991757404
+  },
+  "eighth_radius": 2.821323968858462,
+  "eighth_energy": -0.17476731251011693,
+  "checks": {
+    "max_work_residual": 3.0270924655795284e-15,
+    "max_torque_residual": 9.769962616701378e-15,
+    "escape_energy_residual": 2.7755575615628914e-17,
+    "eighth_angle_residual": 0.0,
+    "cartesian_escape_difference": -1.3073986337985843e-12,
+    "cartesian_t8_difference": 7.219114195322618e-12,
+    "zero_thrust_state_error": 0.0
+  },
+  "versions": {
+    "python": "3.11.9",
+    "numpy": "2.4.0",
+    "scipy": "1.17.1",
+    "matplotlib": "3.11.0"
+  }
+}
